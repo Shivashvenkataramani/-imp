@@ -1,1 +1,12 @@
 # -imp
+## links
+https://see.stanford.edu/Course/CS223A
+https://github.com/kiloreux/awesome-robotics
+https://github.com/kfupmRoboticsClub/learn-Robotics/tree/main?tab=readme-ov-file
+https://github.com/mithi/robotics-coursework
+https://github.com/addy1997/Robotics-Resources
+https://getintorobotics.com/
+https://github.com/IvLabs/resources
+https://github.com/RayYoh/Awesome-Robot-Learning
+https://github.com/yash-goel/reading-list
+https://mithi.github.io/deep-blueberry/ch1-deep-learning-foundations.html
